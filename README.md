@@ -38,6 +38,8 @@ This is a C# application for a hotel reservation system. The system manages hote
 
 ## Usage
 
+- import the sql file into your sql server
+
 - Launch the application.
 
 - Log in with valid user credentials.
